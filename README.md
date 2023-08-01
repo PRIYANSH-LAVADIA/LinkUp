@@ -1,2 +1,2 @@
 # LinkUp
-[PREVIEW HERE](linkup-priyansh.netlify.app)
+[PREVIEW HERE](https://linkup-priyansh.netlify.app/)
